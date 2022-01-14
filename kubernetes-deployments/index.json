@@ -23,7 +23,16 @@
       }
     ],
     "intro": {
-      "text": "intro.md"
+      "text": "intro.md",
+      "code": "foreground.sh",
+      "courseData": "configure.sh"
+    },
+    "assets": {
+      "host01": [
+          {"file": "cheat", "target": "/usr/local/bin/", "chmod": "+x"},
+          {"file": "cheat2", "target": "/usr/local/bin/", "chmod": "+x"},
+          {"file": "deploy.yaml", "target": "/opt/"}
+      ]
     },
     "finish": {
       "text": "finish.md"
