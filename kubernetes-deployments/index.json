@@ -29,7 +29,7 @@
       "text": "finish.md"
     }
   },
-  "environment": {"uilayout": "vscode-terminal"},
+  "environment": {"uilayout": "vscode"},
   "backend": {
     "imageid": "kubernetes-cluster"
   }
