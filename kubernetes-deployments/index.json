@@ -26,7 +26,6 @@
       "text": "intro.md",
       "code": "foreground.sh",
     },
-    "assets": {},
     "finish": {
       "text": "finish.md"
     }
