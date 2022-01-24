@@ -19,8 +19,9 @@
     }
   },
   "environment": {
-    "uilayout": "vscode",
-    "hideintro": true
+    "uilayout": "vscode-terminal-split",
+    "hideintro": true,
+    "showhide": true
   },
   "backend": {
     "imageid": "ubuntu:2004"
